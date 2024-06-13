@@ -1,1 +1,0 @@
-import{f as p,o as u,h as i,p as m}from"./getElementType-68bbeded.js";import{b}from"./Icon-3e17657a.js";function y(a,r){var s=-1,e=p(a)?Array(a.length):[];return u(a,function(t,n,f){e[++s]=r(t,n,f)}),e}function A(a,r){var s=i(a)?m:y;return s(a,b(r))}export{A as m};
