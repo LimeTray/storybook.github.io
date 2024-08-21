@@ -1,0 +1,1 @@
+const T={DEBOUNCE:{INPUT:300},COMPONENTS_TYPE:{SELECTOR_GROUP:"SelectorGroup",BUTTON:"Button",INPUT:"Input",TOGGLE:"Toggle",CHECKBOX:"Checkbox",RADIO:"Radio",DROPDOWN:"Dropdown",TEXTAREA:"Textarea",SEARCH:"Search",CUSTOM:"Custom"}};export{T as a};

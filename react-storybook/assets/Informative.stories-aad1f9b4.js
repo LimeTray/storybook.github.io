@@ -1,8 +1,0 @@
-import{j as o}from"./jsx-runtime-ffb262ed.js";import{I as m}from"./Icon-f4a5e358.js";import{P as a}from"./Popup-0786ebb5.js";/* empty css              */import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./extends-98964cd2.js";import"./inheritsLoose-c82a83d4.js";import"./factories-aa9c7902.js";import"./getElementType-800224f7.js";import"./childrenUtils-ad5f8e12.js";import"./ModernAutoControlledComponent-922f5d0f.js";import"./assertThisInitialized-081f9914.js";import"./pick-303a328b.js";import"./_baseSet-b544df4d.js";import"./includes-2d2ad27d.js";import"./index-901c962e.js";import"./_arrayReduce-865b0d3f.js";import"./Portal-41e64c31.js";import"./index-d3ea75b5.js";import"./Ref-0f7da313.js";import"./objectWithoutPropertiesLoose-4f48578a.js";import"./toPropertyKey-d6b5de35.js";const r=s=>{const{popoverContent:p}=s;return o.jsx(a,{content:p,on:"click",pinned:!0,trigger:o.jsx("div",{className:"informative-container",children:o.jsx(m,{name:"info",color:"grey",inverted:!0})})})},c=r;r.defaultProps={popoverContent:o.jsx("div",{children:o.jsxs("ul",{children:[o.jsx("li",{children:"THis"}),o.jsx("li",{children:"that"})]})})};r.__docgenInfo={description:"",methods:[],displayName:"Informative",props:{popoverContent:{required:!1,tsType:{name:"JSX.Element"},description:"",defaultValue:{value:`<div>
-  <ul>
-    <li>THis</li>
-    <li>that</li>
-  </ul>
-</div>`,computed:!1}}}};const O={component:c,title:"Informative",tags:["autodocs"]},t={args:{}};var e,i,n;t.parameters={...t.parameters,docs:{...(e=t.parameters)==null?void 0:e.docs,source:{originalSource:`{
-  args: {}
-}`,...(n=(i=t.parameters)==null?void 0:i.docs)==null?void 0:n.source}}};const R=["Default"];export{t as Default,R as __namedExportsOrder,O as default};

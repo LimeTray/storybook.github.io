@@ -1,0 +1,1 @@
+import{j as s}from"./jsx-runtime-ffb262ed.js";import{C as t}from"./Checkbox-4d253c68.js";const a=({className:e="",...o})=>s.jsx(t,{className:`lt-checkbox ${e}`,...o});a.__docgenInfo={description:"",methods:[],displayName:"LtCheckbox",props:{className:{defaultValue:{value:"''",computed:!1},required:!1}}};export{a as L};

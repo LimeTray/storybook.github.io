@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-ffb262ed.js";import{C as s}from"./Checkbox-4d253c68.js";function g({className:o,...t}){return e.jsx(s,{className:`lt-toggle ${o||""}`,toggle:!0,...t})}g.__docgenInfo={description:"",methods:[],displayName:"LtToggle"};export{g as L};
