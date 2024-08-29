@@ -1,6 +1,0 @@
-import{L as i}from"./legends-ae624067.js";import"./jsx-runtime-8406ef1e.js";import"./index-ad58220e.js";import"./_commonjsHelpers-de833af9.js";import"./Label-c7d6d896.js";import"./extends-4c19d496.js";import"./inheritsLoose-5494d9cc.js";import"./ModernAutoControlledComponent-907d0808.js";import"./assertThisInitialized-081f9914.js";import"./factories-0eb4186c.js";import"./getElementType-09c91dec.js";import"./childrenUtils-fbaf208d.js";import"./Icon-fe22c22f.js";import"./htmlPropsUtils-dd3478e8.js";import"./includes-0befd159.js";import"./Portal-cb2f33ad.js";import"./index-4fee7e45.js";import"./Ref-51c42093.js";import"./objectWithoutPropertiesLoose-f3b3ace0.js";const s=[{text:"Superb!",description:"(<8 mins)",color:"#00FF00"},{text:"Acceptable",description:"(8 mins-11 mins)",color:"#FFFF00"},{text:"Alarming",description:"(>11 mins)",color:"#FF0000"}],t={args:{heading:"Legend",legendsData:s}},E={component:i,title:"Legends",tags:["autodocs"]};var e,o,r;t.parameters={...t.parameters,docs:{...(e=t.parameters)==null?void 0:e.docs,source:{originalSource:`{
-  args: {
-    heading: "Legend",
-    legendsData: legendsData
-  }
-}`,...(r=(o=t.parameters)==null?void 0:o.docs)==null?void 0:r.source}}};const O=["Default"];export{t as Default,O as __namedExportsOrder,E as default};
