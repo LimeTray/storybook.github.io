@@ -1,0 +1,8 @@
+import{j as o}from"./jsx-runtime-8406ef1e.js";import{I as m}from"./Icon-a36dbc07.js";import{P as a}from"./Popup-6de70d7e.js";/* empty css              */import"./index-ad58220e.js";import"./_commonjsHelpers-de833af9.js";import"./extends-4c19d496.js";import"./inheritsLoose-5494d9cc.js";import"./factories-03e2068e.js";import"./getElementType-486fb75c.js";import"./childrenUtils-8c0966fa.js";import"./ModernAutoControlledComponent-4ca57a24.js";import"./assertThisInitialized-081f9914.js";import"./pick-621ad31c.js";import"./_baseSet-4bb90091.js";import"./includes-6af2fe54.js";import"./index-aa4587fb.js";import"./_arrayReduce-865b0d3f.js";import"./Portal-3e499843.js";import"./index-4fee7e45.js";import"./Ref-51c42093.js";import"./objectWithoutPropertiesLoose-f3b3ace0.js";import"./toPropertyKey-4015efc6.js";const r=s=>{const{popoverContent:p}=s;return o.jsx(a,{content:p,on:"click",pinned:!0,trigger:o.jsx("div",{className:"informative-container",children:o.jsx(m,{name:"info",color:"grey",inverted:!0})})})},c=r;r.defaultProps={popoverContent:o.jsx("div",{children:o.jsxs("ul",{children:[o.jsx("li",{children:"THis"}),o.jsx("li",{children:"that"})]})})};r.__docgenInfo={description:"",methods:[],displayName:"Informative",props:{popoverContent:{required:!1,tsType:{name:"JSX.Element"},description:"",defaultValue:{value:`<div>
+  <ul>
+    <li>THis</li>
+    <li>that</li>
+  </ul>
+</div>`,computed:!1}}}};const O={component:c,title:"Informative",tags:["autodocs"]},t={args:{}};var e,i,n;t.parameters={...t.parameters,docs:{...(e=t.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  args: {}
+}`,...(n=(i=t.parameters)==null?void 0:i.docs)==null?void 0:n.source}}};const R=["Default"];export{t as Default,R as __namedExportsOrder,O as default};
