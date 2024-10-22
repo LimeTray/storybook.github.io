@@ -1,4 +1,4 @@
-import{j as c}from"./jsx-runtime-8406ef1e.js";import{d as r,l as p}from"./styled-components.browser.esm-d2d81691.js";import{t as m}from"./config-a488a195.js";import{H as h}from"./Header-30441d32.js";const $=()=>m,v=$(),T=()=>v,f={getStyle:T},q=r(h)`
+import{j as c}from"./jsx-runtime-8406ef1e.js";import{d as r,l as p}from"./styled-components.browser.esm-d2d81691.js";import{t as m}from"./config-ec09094b.js";import{H as h}from"./Header-30441d32.js";const $=()=>m,v=$(),T=()=>v,f={getStyle:T},q=r(h)`
   color: ${e=>e.$color};
 `,i=(e,t,n,o)=>p`
   font-family: ${e.fontFamily};
