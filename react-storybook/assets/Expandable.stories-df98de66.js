@@ -24,6 +24,7 @@ import{j as g}from"./jsx-runtime-8406ef1e.js";import{r as d,R as X}from"./index-
   .tbody {
     border: 1px solid ${({theme:I})=>I.colors.border};
     border-radius: ${({theme:I})=>I.borderRadius.large};
+    background-color: ${({theme:I})=>I.colors.white};
 
     .tr {
       display: flex;
