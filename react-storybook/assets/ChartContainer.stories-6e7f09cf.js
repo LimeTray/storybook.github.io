@@ -18,7 +18,7 @@ import{j as t}from"./jsx-runtime-8406ef1e.js";import{d as o,o as v}from"./styled
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: ${({theme:e})=>e.padding.medium} 0;
+  padding: ${({theme:e})=>e.padding.small};
 `,g=({title:e,footer:a,children:i,chartOptionsMenu:l})=>{const f=t.jsx(x,{icon:"bars",fitted:!0,color:"rgb(2, 8, 23)",style:{cursor:"pointer",color:"rgb(2, 8, 23)"}});return t.jsx(v,{theme:y,children:t.jsxs(k,{children:[t.jsxs(R,{children:[t.jsx(O,{children:e}),l&&t.jsx(S,{...l,trigerElement:l.trigerElement||f})]}),t.jsx(E,{children:i}),t.jsx(j,{children:a})]})})},b=g;g.__docgenInfo={description:"",methods:[],displayName:"ChartContainer",props:{title:{required:!0,tsType:{name:"union",raw:"string | React.ReactNode",elements:[{name:"string"},{name:"ReactReactNode",raw:"React.ReactNode"}]},description:""},footer:{required:!1,tsType:{name:"union",raw:"string | React.ReactNode",elements:[{name:"string"},{name:"ReactReactNode",raw:"React.ReactNode"}]},description:""},children:{required:!0,tsType:{name:"ReactReactNode",raw:"React.ReactNode"},description:""},chartOptionsMenu:{required:!1,tsType:{name:"intersection",raw:"Omit<ChartOptionsMenuProps, 'trigerElement'> & { trigerElement?: JSX.Element }",elements:[{name:"Omit",elements:[{name:"signature",type:"object",raw:`{
   title: string;
   sections: (Section | SectionGroup)[];
